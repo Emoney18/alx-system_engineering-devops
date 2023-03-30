@@ -2,6 +2,6 @@
 
 ! SSH RSA Second Pair Part {0x0B}
 
-@ Author: Owolabi Emmanuel
+@ Author: Afolabi John Oluwaseun
 
 ```
